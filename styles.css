@@ -1,0 +1,16 @@
+body {
+    background-color: #222222;
+    text-align: center;
+    color: yellow;
+}
+
+img{
+    border-radius: 100%;
+    border: 5px solid yellow;
+    transition: all .1s ease-out;
+}
+
+.whileClick{
+    transform: scale(1.05);
+    transition: all .1s ease-out;
+}
